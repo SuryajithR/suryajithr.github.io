@@ -130,7 +130,7 @@ textarea[type=text] {
 .content {
     display: flex;
     justify-content: space-between;
-    max-width: 200px;
-    margin: 0 auto;
+    max-width: 160px;
+    margin: auto;
     padding: 10px 0;
   }
