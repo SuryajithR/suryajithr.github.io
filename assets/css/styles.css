@@ -908,12 +908,33 @@ img {
 .contact__icon{
    font-size: 2rem;
    color: var(--first-color);
-   margin-right: var(--mb-0-75);
+   /* margin-right: var(--mb-0-75); */
+   margin:18px;
+}
+
+.contact__icon2{
+   font-size: 2rem;
+   color: var(--first-color);
+   /* margin-right: var(--mb-0-75); */
+   margin:72px;
+}
+
+.contact__icon3{
+   font-size: 2rem;
+   color: var(--first-color);
+   /* margin-right: var(--mb-0-75); */
+   margin:24px;
 }
 
 .contact__title{
    font-size: var(--h3-font-size);
    font-weight: var(--font-medium);
+}
+
+.contact__title2{
+   font-size: var(--h3-font-size);
+   font-weight: var(--font-medium);
+   margin-left: 60px;
 }
 
 .contact__subtitle{
